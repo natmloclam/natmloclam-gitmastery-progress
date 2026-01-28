@@ -75,14 +75,5 @@
       "Great work setting up a public remote repository!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1769593727.141335,
-    "completed_at": 1769593730.98803,
-    "comments": [
-      "Wrong 'upstream' remote URL"
-    ],
-    "status": "Incomplete"
   }
 ]
